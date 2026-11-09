@@ -4,7 +4,7 @@
 
 I'm a Computer Science graduate based in the Netherlands, combining professional software development experience with further study in data science and AI. I enjoy working with Python and SQL, understanding how systems connect, and turning data into useful insights.
 
-## About me
+## Experience 
 
 -  Worked as a Blueriq Developer at **CGI**, working on business applications for the Dutch public sector.
 -  Pursuing an **MSc in Data Science & AI Technology at TU Delft**.
