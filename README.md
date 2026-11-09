@@ -6,7 +6,7 @@ I'm a Computer Science graduate based in the Netherlands, combining professional
 
 ## Experience 
 
--  Worked as a Blueriq Developer at **CGI**, working on business applications for the Dutch public sector.
+-  Former Blueriq Developer at **CGI**, working on business applications for the Dutch public sector.
 -  Pursuing an **MSc in Data Science & AI Technology at TU Delft**.
 -  **BSc in Computer Science** with a **minor in Data Science** from **Vrije Universiteit Amsterdam**.
 -  Former teaching assistant for **Databases (SQL)** and **Statistical Methods (R)** at VU Amsterdam.
