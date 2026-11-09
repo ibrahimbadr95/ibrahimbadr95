@@ -48,7 +48,7 @@ My bachelor's thesis explored navigation techniques for autonomous driving, comp
 
 ## Explore my work
 
-Browse my [repositories](https://github.com/ibrahimbadr95?tab=repositories) for projects, coursework, and experiments.
+Most of my university coursework is in private repositories. Browse my [repositories](https://github.com/ibrahimbadr95?tab=repositories) for my public projects. 
 
 <!-- Add links to 2–3 selected public projects here when ready.
 For each project, describe the problem, your contribution, and the tools used.
