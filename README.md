@@ -1,4 +1,4 @@
-# Hi, I'm Ibrahim Badr 
+# About me
 
 **Software Developer | MSc Data Science & AI Technology (in progress) | Interested in Data Engineering**
 
@@ -22,6 +22,16 @@ I'm a Computer Science graduate based in the Netherlands, combining professional
 | Backend development | FastAPI |
 | Business applications | Blueriq, business rules and process modelling |
 | Development & monitoring | Git, GitLab CI/CD, Liquibase, Grafana, Loki |
+
+## GitHub languages
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ibrahimbadr95&amp;theme=github_dark&amp;exclude=shell">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ibrahimbadr95&amp;theme=github&amp;exclude=shell" alt="Top languages by commit, excluding Shell">
+</picture>
+
+*Commit activity as reported by [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards).*
+
 
 ## What I'm focusing on
 
